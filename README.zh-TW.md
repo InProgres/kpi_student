@@ -8,13 +8,13 @@
 -   邏輯難題
 -   戰略要素
 -   困惑的情節
--   not definitely solutions
+-   不一定是解決方案
 -   財富
 -   有點神秘
 -   很多研究
 -   以及更多
 
-Could you survive all it's challenges? The KPI and his hostels are waiting for you.
+您能克服所有挑戰嗎？ KPI和他的旅館正在等待您。
 
 ### 遊戲示範
 
@@ -36,7 +36,7 @@ _遊戲菜單示例_
 
 ## 常問問題
 
-No question at this moment.:disappointed:
+目前沒有問題。：失望：
 
 ## 貢獻
 
@@ -47,3 +47,12 @@ No question at this moment.:disappointed:
 ## 執照
 
 通過使用此存儲庫中的代碼，您同意其中的所有語句[許可文件](LICENSE)
+
+## README Translation
+
+-   [英語](README.md)
+-   [簡體中文](README.zh-CN.md)
+-   [繁體中文](README.zh-TW.md)
+-   [印地語](README.hi.md)
+-   [法語](README.fr.md)
+-   [阿拉伯](README.ar.md)
