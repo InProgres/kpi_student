@@ -47,3 +47,12 @@ Pour contribuer, veuillez lire les directives de contribution à l'adresse[CONTR
 ## LICENCE
 
 En utilisant du code dans ce référentiel, vous acceptez toutes les déclarations de[Fichier LICENCE](LICENSE)
+
+## Traduction README
+
+-   [Anglais](README.md)
+-   [Chinois simplifié](README.zh-CN.md)
+-   [chinois traditionnel](README.zh-TW.md)
+-   [hindi](README.hi.md)
+-   [Française](README.fr.md)
+-   [arabe](README.ar.md)
