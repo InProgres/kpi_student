@@ -42,8 +42,17 @@ _游戏菜单示例_
 
 感谢您的帮助！
 
-To contribute, please read the contribution guidelines at [contributing.面对](CONTRIBUTING.md)
+要捐款，请阅读以下网址的捐款准则：[contributing.面对](CONTRIBUTING.md)
 
 ## 执照
 
 通过使用此存储库中的代码，您同意其中的所有语句[许可文件](LICENSE)
+
+## 自述翻译
+
+-   [英语](README.md)
+-   [简体中文](README.zh-CN.md)
+-   [繁体中文](README.zh-TW.md)
+-   [印地语](README.hi.md)
+-   [法语](README.fr.md)
+-   [阿拉伯](README.ar.md)
