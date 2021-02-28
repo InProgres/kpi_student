@@ -10,11 +10,11 @@
 -   困惑的情节
 -   不一定是解决方案
 -   财富
--   有点神秘
+-   a bit of mystery
 -   很多研究
 -   以及更多
 
-您能克服所有挑战吗？ KPI和他的旅馆正在等待您。
+Could you survive all it's challenges? The KPI and his hostels are waiting for you.
 
 ### 游戏示范
 
@@ -28,7 +28,7 @@ _游戏菜单示例_
 
 ## 要求
 
-要开始冒险，您需要具有以下功能的现代浏览器：**JavaScript支持**仅此而已。
+要开始冒险，您需要具有以下功能的现代浏览器：**JavaScript支持** and nothing more.
 
 ## 依存关系
 
