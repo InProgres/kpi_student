@@ -42,7 +42,7 @@ _遊戲菜單示例_
 
 感謝您的幫助！
 
-要捐款，請閱讀以下網址的捐款準則：[CONTRIBUTING.md](CONTRIBUTING.md)
+要捐款，請閱讀以下網址的捐款準則：[contributing.面對](CONTRIBUTING.md)
 
 ## 執照
 
