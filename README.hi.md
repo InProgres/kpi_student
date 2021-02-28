@@ -56,5 +56,5 @@ _खेल मेनू का उदाहरण_
 -   [सरलीकृत चीनी](READMEs/README.zh-CN.md)
 -   [परंपरागत चीनी](READMEs/README.zh-TW.md)
 -   [हिंदी](READMEs/README.hi.md)
--   [Française](READMEs/README.fr.md)
+-   [फ्रेंच](READMEs/README.fr.md)
 -   [अरबी](READMEs/README.ar.md)
