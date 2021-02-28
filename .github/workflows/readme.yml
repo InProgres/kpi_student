@@ -39,7 +39,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: uk
-      - name: Adding README - Ukrainian
+      - name: Adding README - Russian
         uses: dephraiim/translate-readme@main
         with:
           LANG: ru
