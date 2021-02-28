@@ -1,4 +1,4 @@
-![Student](readme_images/student.png)
+![Student](READMEs/readme_images/student.png)
 # kpi_student
 The game brings us to the beginning of student life. You will start as a simple student with not a big amount of money in the new city, that is not ready for new visitors. 
 Game contains:
@@ -13,11 +13,11 @@ Game contains:
 
 Could you survive all it's challenges? The KPI and his hostels are waiting for you.
 ### Demo of game play
-![Image of main page](readme_images/main.svg)
+![Image of main page](READMEs/readme_images/main.svg)
 
 _The main page of screen_
 
-![Image of main page](readme_images/menu.svg)
+![Image of main page](READMEs/readme_images/menu.svg)
 
 _Example of game menu_
 
@@ -36,9 +36,10 @@ To contribute, please read the contribution guidelines at [CONTRIBUTING.md](CONT
 By using code in this repository, you agree with all statements in [LICENSE file](LICENSE)
 
 ## README Translation
-- [English](README.md)
-- [简体中文](README.zh-CN.md)
-- [繁体中文](README.zh-TW.md)
-- [हिंदी](README.hi.md)
-- [Française](README.fr.md)
-- [عربى](README.ar.md)
+<!-- TODO: add russian and ukrainian translation  -->
+- [English](READMEs/README.md)
+- [简体中文](READMEs/README.zh-CN.md)
+- [繁体中文](READMEs/README.zh-TW.md)
+- [हिंदी](READMEs/README.hi.md)
+- [Française](READMEs/README.fr.md)
+- [عربى](READMEs/README.ar.md)
