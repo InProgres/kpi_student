@@ -6,8 +6,8 @@ Le jeu nous amène au début de la vie étudiante. Vous commencerez comme un sim
 Le jeu contient:
 
 -   puzzles logiques
--   strategic elements
--   puzzled plot
+-   éléments stratégiques
+-   intrigue perplexe
 -   pas définitivement des solutions
 -   fortune
 -   un peu de mystère
