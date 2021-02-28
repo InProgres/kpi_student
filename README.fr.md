@@ -5,12 +5,12 @@
 Le jeu nous amène au début de la vie étudiante. Vous commencerez comme un simple étudiant avec pas une grosse somme d'argent dans la nouvelle ville, qui n'est pas prête pour de nouveaux visiteurs.
 Le jeu contient:
 
--   puzzles logiques
--   éléments stratégiques
+-   logical puzzles
+-   strategic elements
 -   intrigue perplexe
 -   pas définitivement des solutions
 -   fortune
--   un peu de mystère
+-   a bit of mystery
 -   beaucoup d'étude
 -   et beaucoup plus
 
@@ -20,7 +20,7 @@ Pourriez-vous survivre à tous ses défis? Le KPI et ses auberges vous attendent
 
 ![Image of main page](READMEs/readme_images/main.svg)
 
-_La page principale de l'écran_
+_The main page of screen_
 
 ![Image of main page](READMEs/readme_images/menu.svg)
 
@@ -28,7 +28,7 @@ _Exemple de menu de jeu_
 
 ## Conditions
 
-Pour démarrer une aventure, vous avez besoin d'un navigateur moderne avec**Prise en charge de JavaScript**Et rien de plus.
+Pour démarrer une aventure, vous avez besoin d'un navigateur moderne avec**JavaScript support**Et rien de plus.
 
 ## Dépendances
 
@@ -54,7 +54,7 @@ En utilisant du code dans ce référentiel, vous acceptez toutes les déclaratio
 
 -   [Anglais](READMEs/README.md)
 -   [Chinois simplifié](READMEs/README.zh-CN.md)
--   [chinois traditionnel](READMEs/README.zh-TW.md)
+-   [繁体中文](READMEs/README.zh-TW.md)
 -   [hindi](READMEs/README.hi.md)
 -   [Française](READMEs/README.fr.md)
 -   [arabe](READMEs/README.ar.md)
