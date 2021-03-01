@@ -5,14 +5,14 @@
 Le jeu nous amène au début de la vie étudiante. Vous commencerez comme un simple étudiant avec pas une grosse somme d'argent dans la nouvelle ville, qui n'est pas prête pour de nouveaux visiteurs.
 Le jeu contient:
 
--   puzzles logiques
--   éléments stratégiques
--   intrigue perplexe
--   pas définitivement des solutions
--   fortune
--   un peu de mystère
--   beaucoup d'étude
--   et beaucoup plus
+- puzzles logiques
+- éléments stratégiques
+- intrigue perplexe
+- pas définitivement des solutions
+- fortune
+- un peu de mystère
+- beaucoup d'étude
+- et beaucoup plus
 
 Pourriez-vous survivre à tous ses défis? Le KPI et ses auberges vous attendent.
 
@@ -50,9 +50,9 @@ En utilisant du code dans ce référentiel, vous acceptez toutes les déclaratio
 
 ## Traduction README
 
--   [Anglais](README.md)
--   [Chinois simplifié](README.zh-CN.md)
--   [chinois traditionnel](README.zh-TW.md)
--   [hindi](README.hi.md)
--   [Française](README.fr.md)
--   [arabe](README.ar.md)
+- [Anglais](README.md)
+- [Chinois simplifié](README.zh-CN.md)
+- [chinois traditionnel](README.zh-TW.md)
+- [hindi](README.hi.md)
+- [Française](README.fr.md)
+- [arabe](README.ar.md)
