@@ -148,3 +148,10 @@ To contribute, please read the contribution guidelines at [CONTRIBUTING.md](CONT
 ## LICENSE
 
 By using code in this repository, you agree with all statements in [LICENSE file](LICENSE)
+
+## TRANSLATIONS
+
+---
+
+- [Ukrainian(Українська)](readme_translation/README.uk.md)
+- [Russian(Русский)](readme_translation/README.ru.md)
