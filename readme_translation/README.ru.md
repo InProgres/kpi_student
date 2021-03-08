@@ -2,45 +2,45 @@
 
 # kpi_student
 
-The game brings us to the beginning of student life. You will start as a simple student with not a big amount of money in the new city, that is not ready for new visitors.
-Game contains:
+Игра переносит нас в начало студенческой жизни. Вы начнёте простым студентом с небольшой суммой денег в новом городе, который не готов для новых посетителей.
+Игра содержит:
 
-- logical puzzles
-- strategic elements
-- puzzled plot
-- not definitely solutions
-- fortune
-- a bit of mystery
-- a lot of studies
-- and much more
+- логические головоломки
+- стратегические элементы
+- захватывающий сюжет
+- не однозначные решения
+- удача
+- немного загадки
+- много исследований
+- и многое другое
 
-Could you survive all it's challenges? The KPI and his hostels are waiting for you.
+Сможете ли вы пережить все испытания? КПИ и его общежития ждут вас.
 
 ![Interaction with boss](readme_images/boss.svg)
 
-_weekly you will be fighting with boss_
+_Еженедельно вы будете драться с боссом._
 
 ### Features
 
-Our game is _**not** planned_ with **hardcoded** plot. Everyone can change it with the submission of plot fragment via our in-game submitting form.
+Наша игра _**не** запланирована_ на **жестко** запрограммированный сюжет. Каждый может изменить его, отправив фрагмент сюжета через нашу внутриигровую форму отправки.
 
 ![Submission of new cool idea](readme_images/ideaForm.svg)
 
-_you create the game_
+_Вы создаете игру._
 
 ### Demo of gameplay
 
 ![Image of main page](readme_images/main.svg)
 
-_The main page of screen_
+_Главная страница экрана._
 
 ![Image of main page](readme_images/menu.svg)
 
-_Example of game menu_
+_Пример игрового меню._
 
 ## Requirements
 
-To start an adventure you need a modern browser with **JavaScript support** and nothing more.
+Чтобы начать приключение, вам понадобится современный браузер с поддержкой **JavaScript support** и не более того.
 
 ## Dependencies
 
@@ -123,11 +123,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Если вас не устраивает инструмент сборки и варианты конфигурации, вы можете в любой момент выполнить команду извлечения. Эта команда удалит из вашего проекта зависимость отдельной сборки.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you’re on your own.
+Вместо этого эта команда скопирует все файлы конфигурации и транзитивные зависимости (webpack, Babel, ESLint и т.д.) прямо в ваш проект, чтобы вы имели полный контроль над ними. Все команды, кроме извлечения, по-прежнему будут работать, но они будут указывать на скопированные сценарии, чтобы вы могли их настроить. На этом этапе вы сами по себе.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Вам не нужно использовать извлечение. Кураторский набор функций подходит для малых и средних размещений, и вы не должны чувствовать себя обязанными использовать эту функцию. Однако мы понимаем, что этот инструмент бесполезен, если вы не можете настроить его, когда будете к нему готовы.
 
 ## Learn More
 
@@ -147,11 +147,4 @@ To contribute, please read the contribution guidelines at [CONTRIBUTING.md](CONT
 
 ## LICENSE
 
-By using code in this repository, you agree with all statements in [LICENSE file](LICENSE)
-
-## TRANSLATIONS
-
----
-
-- [Ukrainian(Українська)](readme_translation/README.uk.md)
-- [Russian(Русский)](readme_translation/README.ru.md)
+Используя код в репозитории вы соглашаетесь с [LICENSE file](LICENSE)
