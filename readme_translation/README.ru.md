@@ -1,4 +1,4 @@
-![Student](readme_images/student.png)
+![Student](/readme_images/student.png)
 
 # kpi_student
 
@@ -16,7 +16,7 @@
 
 Сможете ли вы пережить все испытания? КПИ и его общежития ждут вас.
 
-![Interaction with boss](readme_images/boss.svg)
+![Interaction with boss](/readme_images/boss.svg)
 
 _Еженедельно вы будете драться с боссом._
 
@@ -24,17 +24,17 @@ _Еженедельно вы будете драться с боссом._
 
 Наша игра _**не** запланирована_ на **жестко** запрограммированный сюжет. Каждый может изменить его, отправив фрагмент сюжета через нашу внутриигровую форму отправки.
 
-![Submission of new cool idea](readme_images/ideaForm.svg)
+![Submission of new cool idea](/readme_images/ideaForm.svg)
 
 _Вы создаете игру._
 
 ### Demo of gameplay
 
-![Image of main page](readme_images/main.svg)
+![Image of main page](/readme_images/main.svg)
 
 _Главная страница экрана._
 
-![Image of main page](readme_images/menu.svg)
+![Image of main page](/readme_images/menu.svg)
 
 _Пример игрового меню._
 
@@ -143,8 +143,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Мы ценим вашу помощь!
 
-Чтобы внести свой вклад, ознакомьтесь с правилами на странице [CONTRIBUTING.md](CONTRIBUTING.md)
+Чтобы внести свой вклад, ознакомьтесь с правилами на странице [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## LICENSE
 
-Используя код в репозитории вы соглашаетесь с [LICENSE file](LICENSE)
+Используя код в репозитории вы соглашаетесь с [LICENSE file](/LICENSE)

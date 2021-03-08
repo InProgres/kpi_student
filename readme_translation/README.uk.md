@@ -24,17 +24,17 @@ _Щотижня ви будете битися з босом._
 
 Наша гра _**не** запланована_ на **жорстко** запрограмований сюжет. Кожен може змінити його, відправивши фрагмент сюжету через нашу внутрішньоігрову форму відправки.
 
-![Submission of new cool idea](readme_images/ideaForm.svg)
+![Submission of new cool idea](/readme_images/ideaForm.svg)
 
 _Ви створюєте гру._
 
 ### Demo of gameplay
 
-![Image of main page](readme_images/main.svg)
+![Image of main page](/readme_images/main.svg)
 
 _Головна сторінка екрану._
 
-![Image of main page](readme_images/menu.svg)
+![Image of main page](/readme_images/menu.svg)
 
 _Приклад ігрового меню._
 
@@ -143,8 +143,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Ми цiнимо Вашу допомогу!
 
-Щоб внести свій вклад, прочитайте вказівки на [CONTRIBUTING.md](CONTRIBUTING.md)
+Щоб внести свій вклад, прочитайте вказівки на [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## LICENSE
 
-Використовуючи код у цьому репозиторiї, Ви погоджуєтесь із усіма твердженнями в [LICENSE file](LICENSE)
+Використовуючи код у цьому репозиторiї, Ви погоджуєтесь із усіма твердженнями в [LICENSE file](/LICENSE)
