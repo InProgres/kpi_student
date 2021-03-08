@@ -44,7 +44,7 @@ _Пример игрового меню._
 
 ## Dependencies
 
-### We depend on
+### Мы зависим от
 
 - [React](https://reactjs.org/) library
 - [Typescript](https://www.typescriptlang.org/) -> typization for pure JS
@@ -60,7 +60,7 @@ _Пример игрового меню._
 
 ## Available Scripts
 
-In the project directory, you can run:
+В директории проекта вы можете запускать:
 
 ### `yarn start`
 
@@ -131,19 +131,19 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Вы можете узнать больше в [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## FAQ
 
-No question at this moment.:disappointed:
+В данный момент нет вопросов.:disappointed:
 
 ## Contributing
 
-We appreciate your help!
+Мы ценим вашу помощь!
 
-To contribute, please read the contribution guidelines at [CONTRIBUTING.md](CONTRIBUTING.md)
+Чтобы внести свой вклад, ознакомьтесь с правилами на странице [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## LICENSE
 

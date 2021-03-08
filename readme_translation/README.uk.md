@@ -28,7 +28,7 @@ _Щотижня ви будете битися з босом._
 
 _Ви створюєте гру._
 
-### Демо гри
+### Demo of gameplay
 
 ![Image of main page](readme_images/main.svg)
 
@@ -38,7 +38,7 @@ _Головна сторінка екрану._
 
 _Приклад ігрового меню._
 
-## Вимоги
+## Requirements
 
 Щоб почати пригоду, вам знадобиться сучасний браузер з підтримкою **JavaScript support** і нічого більше.
 
@@ -58,26 +58,26 @@ _Приклад ігрового меню._
 - [pretty-quick](https://www.npmjs.com/package/pretty-quick) -> for formating stage zone
 - [create-react-app](https://create-react-app.dev/docs/adding-typescript/) -> template for creating react application
 
-## Доступнi скрiпти
+## Available Scripts
 
 В директорiї проекту Ви можете запускати:
 
 ### `yarn start`
 
-Запускати проект в режимi розробки.\
-Open [http://localhost:3000](http://localhost:3000) для перегляду його в браузерi.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Сторiнка перезапуститься якщо ви зробите змiни.\
-Ви також будете бачити помилки в консолi.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `yarn run test:watch`
 
 Launches the test runner in the interactive watch mode.\
-Перегляньте секцiю about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) для бiльшої iнформацiї.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn test`
 
-Запускає тести CI в тестовому режимi. Перегляньте секцiю [on your own environment](https://create-react-app.dev/docs/running-tests/#linux-macos-bash)
+Launches the test runner in the CI test mode. See section [on your own environment](https://create-react-app.dev/docs/running-tests/#linux-macos-bash)
 
 ### `yarn run test:watch`
 
@@ -129,7 +129,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Вам не потрібно використовувати вилучення. Кураторський набір функцій підходить для малих і середніх розміщень, і ви не повинні відчувати себе зобов'язаними використовувати цю функцію. Однак ми розуміємо, що цей інструмент зайвий, якщо ви не можете налаштувати його, коли будете до нього готові.
 
-## Дiзнатися бiльше
+## Learn More
 
 Ви можете дiзнатися бiльше тут [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
