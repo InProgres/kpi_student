@@ -1,4 +1,4 @@
-![Student](readme_images/student.png)
+![Student](/readme_images/student.png)
 
 # kpi_student
 
@@ -16,7 +16,7 @@
 
 Чи зможете ви пережити всі випробування? КПІ та його гуртожитки чекають вас.
 
-![Interaction with boss](readme_images/boss.svg)
+![Interaction with boss](/readme_images/boss.svg)
 
 _Щотижня ви будете битися з босом._
 
